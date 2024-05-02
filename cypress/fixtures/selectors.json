@@ -1,0 +1,11 @@
+{
+    "emailField" : "#email",
+    "passwordField" : "#password",
+    "loginBtn" : "button[type='submit']",
+    "EstherIncField" : ".AppPage_topside_name__7zj2X",
+    "EnterValidEmail" : ".MimaInput_error__QkKJM",
+    "AddressNotFound":".MimaInput_error__QkKJM"
+
+
+
+}

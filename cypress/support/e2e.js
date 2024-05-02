@@ -20,6 +20,6 @@ import './commands'
 // require('./commands')
 beforeEach(function(){
     cy.visit('/')
-    cy.get('.Header2_header__nav__btn__wRKfY  > div :nth-child(1) > button')
+    cy.get('.Header2_header__nav__btn__wRKfY  > div:nth-child(1) > button')
     .should('be.visible').click()
 })
